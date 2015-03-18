@@ -48,67 +48,69 @@
 		<main class="wrap">
 			<h2>PORTFOLIO</h2>
 			<figure>
-				<span id="img1"></span>
+				<span id="img1" class="img-animation"></span>
 				<figcaption>
 				</figcaption>
 				<figcaption>
 				</figcaption>
 			</figure>
 			<figure>
-				<span id="img2"></span>
+				<span id="img2" class="img-animation"></span>
 				<figcaption>
 				</figcaption>
 				<figcaption>
 				</figcaption>
 			</figure>
 			<figure>
-				<span id="img3"></span>
+				<span id="img3" class="img-animation"></span>
 				<figcaption>
 				</figcaption>
 				<figcaption>
 				</figcaption>
 			</figure>
 			<figure>
-				<span id="img4"></span>
+				<span id="img4" class="img-animation"></span>
 				<figcaption>
 				</figcaption>
 				<figcaption>
 				</figcaption>
 			</figure>
 			<figure>
-				<span id="img5"></span>
+				<span id="img5" class="img-animation"></span>
 				<figcaption>
 				</figcaption>
 				<figcaption>
 				</figcaption>
 			</figure>
 			<figure>
-				<span id="img6"></span>
+				<span id="img6" class="img-animation"></span>
 				<figcaption>
 				</figcaption>
 				<figcaption>
 				</figcaption>
 			</figure>
 			<a href="#">View my beautiful <strong>PORTFOLIO</strong></a>
-			<h2>FOR MY LOVING STALKERS</h2>
-			<div>
-				<img src="">
-				<article>
-					<time> </time>
-					<h2> </h2>
-					<p>
+			<section>
+				<h2>FOR MY LOVING STALKERS</h2>
+				<div>
+					<img src="">
+					<article>
+						<time> </time>
+						<h2> </h2>
+						<p>
 
-					</p>
-				</article>
-				<img src="">
-				<article>
-					<time> </time>
-					<h2> </h2>
-					<p>
+						</p>
+					</article>
+					<img src="">
+					<article>
+						<time> </time>
+						<h2> </h2>
+						<p>
 
-					</p>
-				</article>
-			</div>
+						</p>
+					</article>
+				</div>
+			</section>
 			<a href="#">View my <strong>BLOG</strong></a>
 			<ul>
 				<li>

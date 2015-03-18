@@ -198,27 +198,85 @@ header section div span{
 }
 
 
+main h2{
+	font-size: 29px;
+	font-weight: bold;
+	text-align: center;
+	color: #3b3a53;
+	font-family: Lato, sans-serif;
+}
 
 
+main figure{
+	height: 330px;
+	width: 413px;
+	float: left;
+	margin: 0;
 
+}
 
+main figure #img1{
+	background-image: url('http://www.gre.is/wp-content/uploads/2015/03/logreglan_web_gre1-375x250.jpg');
+}
 
+main figure #img1:hover{
 
+}
 
+main figure #img2{
+	background-image: url('http://www.gre.is/wp-content/uploads/2015/03/secretsolstice_website_gre-375x250.jpg');
+}
 
+main figure #img2:hover{
+	
+}
 
+main figure #img3{
+	background-image: url('http://www.gre.is/wp-content/uploads/2015/03/palloskar_web_gre-375x250.jpg');
+}
 
+main figure #img3:hover{
+	
+}
 
+main figure #img4{
+	background-image: url('http://www.gre.is/wp-content/uploads/2014/11/22hillhotel_web_gre-375x250.jpg');
+}
+
+main figure #img4:hover{
+	
+}
+
+main figure #img5{
+	background-image: url('http://www.gre.is/wp-content/uploads/2015/03/netgiro_web_gre1-375x250.jpg');
+}
+
+main figure #img5:hover{
+	
+}
+
+main figure #img6{
+	background-image: url('http://www.gre.is/wp-content/uploads/2014/03/vesturport_web_gre-375x250.jpg');
+}
+
+main figure #img6:hover{
+	
+}
 
 
 .img-animation{
 	width: 373px;
 	height: 250px;
-	background-repeat: no-repeat;
+ 	display: inline-block;
+ 	margin-left: auto;
+ 	margin-right: auto;
+ 	background-repeat: no-repeat;
 	background-size: cover;
+	margin: 20px 20px 20px 20px;
 }
 
-img-animation:hover{
+.img-animation:hover{
 	background: rgba(137,0,201,0.5);
+	opacity: 0.4;
 }
 
