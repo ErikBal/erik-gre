@@ -19,13 +19,16 @@ header{
 	background-image: radial-gradient(circle,#3b3a53,#1b151f);
 	margin: 0 0 0 0;
 	padding: 10px 0 0 0;
-	height: 500px;
+	height: 490px;
 
 }
 
+header section{
+	width: 1240px;
+	margin: 0 auto 0 auto;
+}
 
-header .wrap a{
-	float: left;
+header section a{
 	color: rgb(255, 255, 255);
 	display: block;
 	float: left;
@@ -41,7 +44,7 @@ header .wrap a{
 	margin-top: 25px;
 }
 
-header .wrap a + a{
+header section a + a{
 	color: rgb(163, 162, 184);
 	cursor: auto;
 	display: block;
@@ -59,11 +62,13 @@ header .wrap a + a{
 	margin: 0;
 
 }
-header .wrap nav{
+header section nav{
 	height: 90px;
+	width: 1240px;
+	margin: 0 auto 0 auto;
 }
 
-header .wrap nav ul{
+header section nav ul{
 	width: 60%;
 	padding: 0 0 0 0;
 	margin: 0;
@@ -72,7 +77,7 @@ header .wrap nav ul{
 	height: auto;
 }
 
-header .wrap nav ul li{
+header section nav ul li{
 	margin: 0 0 20px 0;
 	padding: 0 20px 0 0;
 	height: 70px;
@@ -82,20 +87,20 @@ header .wrap nav ul li{
 
 }
 
-header .wrap nav ul li + li{
+header section nav ul li + li{
 	padding: 0;
 	width: 13%;
 }
 
 
-header .wrap nav ul li + li + li{
+header section nav ul li + li + li{
 	width: 20%;
 	padding: 0;
 }
 
 
 
-header .wrap nav ul li a{
+header section nav ul li a{
 	color: rgb(255, 255, 255);
 	font-family: Lato, sans-serif;
 	font-size: 28px;
@@ -111,15 +116,16 @@ header .wrap nav ul li a{
 }
 
 
-header .wrap section{
+header section section{
 	width: 60%;
 	margin-right: auto;
 	margin-left: auto;
 	margin-top: 70px;
+	height: 340px;
 }
 
-header .wrap section h1{
-	width: 100%;
+header section section h1{
+	width: 90%;
 	color: #ffffff;
 	font-family: Lato, sans-serif;
 	font-size: 60px;
@@ -128,11 +134,11 @@ header .wrap section h1{
 	text-shadow: rgba(0, 0, 0, 0.901961) 0px 0px 1px;
 	line-height: 60px;
 	letter-spacing: -2px;
-	margin: 0;
+	margin: 0 auto 0 auto;
 }
 
 
-header .wrap section h2{
+header section section h2{
 	color: #A3A2B8;
 	font-family: Lato, sans-serif;
 	font-size: 20px;
@@ -147,12 +153,53 @@ header .wrap section h2{
 }
 
 
+header section section div{
+	width: 100%;
+	height: 150px;
+	margin: 0 auto 0 auto;
 
+}
 
+header section section div a{
+	width: 245px;
+	height: auto;
+	font-size: 19px;
+	text-align: center;
+	font-weight: lighter;
+	font-style: italic;
+	padding-left: 0;
+	margin: 35px 0 0 100px;
+	border: 2px solid #ffffff;
+	border-radius: 5px;
+	padding-top: 15px;
+	padding-bottom: 12px;
+	color: #A3A2B8;
 
+}
 
+header section section div a + span + a{
+	width: 225px;
+	margin-left: 0;
+}
 
+header section section div a strong{
+	font-size: 26px;
+	font-style: normal;
+	padding-top: 10px;
+	color: #ffffff;
+}
 
+header section div span{
+	float: left;
+	width: 6%;
+	text-align: center;
+	margin: 45px 0 0 0;
+	padding: 0;
+	font-size: 28px;
+	color: #ffffff;
+	padding:0 12px 0 12px;
+	font-weight: 400;
+}
 
 
 

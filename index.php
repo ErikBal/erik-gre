@@ -5,7 +5,7 @@
 	</head>
 	<body>
 		<header>
-			<section class="wrap">
+			<section>
 				<a href="#">gre</a>
 				<a href="#">Get in touch</a>
 				<nav>
@@ -31,9 +31,11 @@
 					<h2>
 						True story - as seen on the internet
 					</h2>
-					<a href="#">View my <strong>Portfolio</strong></a>
-					<span> </span>
-					<a href="">Like it then <strong>HIRE ME</strong></a>
+					<div>
+						<a href="#">View my <strong>PORTFOLIO</strong></a>
+						<span>or</span>
+						<a href="#">Like it then <strong>HIRE ME</strong></a>
+					</div>
 					<div>
 						<img src="">
 						<img src="">
