@@ -5,34 +5,33 @@
 	</head>
 	<body>
 		<header  class="wrap">
+			<a href="#">gre</a>
 			<nav>
 				<ul>
-					<li id="logo">
+					<li>
+						<a href="#">About</a>
 					</li>
 					<li>
-						<a href="#"></a>
+						<a href="#">Portfolio</a>
 					</li>
 					<li>
-						<a href="#"></a>
+						<a href="#">Skills</a>
 					</li>
 					<li>
-						<a href="#"></a>
-					</li>
-					<li>
-						<a href="#"></a>
+						<a href="#">Blog</a>
 					</li>
 				</ul>
 			</nav>
 			<section>
 				<h1>
-
+					Making the web a better place one site at a time
 				</h1>
 				<h2>
-
+					True story - as seen on the internet
 				</h2>
-				<a href="#"></a>
+				<a href="#">View my <strong>Portfolio</strong></a>
 				<span> </span>
-				<a href=""> </a>
+				<a href="">Like it then <strong>HIRE ME</strong></a>
 				<div>
 					<img src="">
 					<img src="">
@@ -42,7 +41,7 @@
 			</section>					
 		</header>
 		<main class="wrap">
-			<h2> </h2>
+			<h2>PORTFOLIO</h2>
 			<figure>
 				<span id="img1"></span>
 				<figcaption>
@@ -85,7 +84,8 @@
 				<figcaption>
 				</figcaption>
 			</figure>
-			<a href="#">
+			<a href="#">View my beautiful <strong>PORTFOLIO</strong></a>
+			<h2>FOR MY LOVING STALKERS</h2>
 			<div>
 				<img src="">
 				<article>
@@ -104,7 +104,7 @@
 					</p>
 				</article>
 			</div>
-			<a href="#">
+			<a href="#">View my <strong>BLOG</strong></a>
 			<ul>
 				<li>
 					<a href="#">

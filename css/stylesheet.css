@@ -1,1 +1,16 @@
 background-image: radial-gradient(circle,#3b3a53,#1b151f);
+
+
+
+
+.img-animation{
+	width: 373px;
+	height: 250px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+img-animation:hover{
+	background: rgba(137,0,201,0.5);
+}
+
