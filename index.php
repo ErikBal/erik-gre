@@ -5,7 +5,7 @@
 	</head>
 	<body>
 		<header>
-			<section>
+			<section class="wrap">
 				<a href="#">gre</a>
 				<a href="#">Get in touch</a>
 				<nav>
