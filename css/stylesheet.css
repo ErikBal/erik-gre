@@ -1,7 +1,94 @@
-background-image: radial-gradient(circle,#3b3a53,#1b151f);
+ul{
+	margin: 0;
+	padding: 0;
+}
 
 
+.wrap{
+	width: 1240px;
+	margin-right: auto;
+	margin-left: auto;
+}
 
+body{
+	margin: 0;
+	padding: 0;
+}
+
+header{
+	background-image: radial-gradient(circle,#3b3a53,#1b151f);
+	margin: 0 0 0 0;
+	padding: 10px 0 0 0;
+
+}
+
+
+header .wrap a{
+	float: left;
+	color: rgb(255, 255, 255);
+	display: block;
+	float: left;
+	font-family: Lato, sans-serif;
+	font-size: 60px;
+	font-weight: 900;
+	height: 60px;
+	line-height: 20px;
+	padding-left: 20px;
+	text-align: left;
+	text-decoration: none;
+	width: 95px;
+	padding-bottom: 30px;
+}
+
+header .wrap a + a{
+	color: rgb(163, 162, 184);
+	cursor: auto;
+	display: block;
+	font-family: Lato, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	height: 14px;
+	position: absolute;
+	right: 105px;
+	top: 9px;
+	text-align: left;
+	text-decoration: none;
+	width: 95px;
+
+}
+header .wrap nav{
+	
+}
+
+header .wrap nav ul{
+	width: 50%;
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	float: right;
+}
+
+header .wrap nav ul li{
+	margin: 0;
+	padding: 0;
+
+}
+
+header .wrap nav ul li a{
+	color: rgb(255, 255, 255);
+	cursor: auto;
+	display: inline;
+	font-family: Lato, sans-serif;
+	font-size: 30px;
+	font-weight: 900;
+	height: auto;
+	line-height: 60px;
+	list-style-type: none;
+	text-align: left;
+	text-decoration: none;
+	width: auto;
+	float: left;
+}
 
 .img-animation{
 	width: 373px;

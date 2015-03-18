@@ -4,40 +4,43 @@
 		<link href="css/stylesheet.css" rel="stylesheet" type="text/css">
 	</head>
 	<body>
-		<header  class="wrap">
-			<a href="#">gre</a>
-			<nav>
-				<ul>
-					<li>
-						<a href="#">About</a>
-					</li>
-					<li>
-						<a href="#">Portfolio</a>
-					</li>
-					<li>
-						<a href="#">Skills</a>
-					</li>
-					<li>
-						<a href="#">Blog</a>
-					</li>
-				</ul>
-			</nav>
-			<section>
-				<h1>
-					Making the web a better place one site at a time
-				</h1>
-				<h2>
-					True story - as seen on the internet
-				</h2>
-				<a href="#">View my <strong>Portfolio</strong></a>
-				<span> </span>
-				<a href="">Like it then <strong>HIRE ME</strong></a>
-				<div>
-					<img src="">
-					<img src="">
-					<img src="">
-					<img src="">
-				</div>
+		<header>
+			<section class="wrap">
+				<a href="#">gre</a>
+				<a href="#">Get in touch</a>
+				<nav>
+					<ul>
+						<li>
+							<a href="#">About</a>
+						</li>
+						<li>
+							<a href="#">Portfolio</a>
+						</li>
+						<li>
+							<a href="#">Skills</a>
+						</li>
+						<li>
+							<a href="#">Blog</a>
+						</li>
+					</ul>
+				</nav>
+				<section>
+					<h1>
+						Making the web a better place one site at a time
+					</h1>
+					<h2>
+						True story - as seen on the internet
+					</h2>
+					<a href="#">View my <strong>Portfolio</strong></a>
+					<span> </span>
+					<a href="">Like it then <strong>HIRE ME</strong></a>
+					<div>
+						<img src="">
+						<img src="">
+						<img src="">
+						<img src="">
+					</div>
+				</section>
 			</section>					
 		</header>
 		<main class="wrap">
@@ -143,15 +146,17 @@
 				</li>
 			</ul>
 		</main>
-		<footer class="wrap">
-			<div>
-			</div>
-			<div>
-			</div>
-			<div>
-			</div>
-			<p>
-			</p>
+		<footer>
+			<section class="wrap">
+				<div>
+				</div>
+				<div>
+				</div>
+				<div>
+				</div>
+				<p>
+				</p>
+			</section>
 		</footer>
 	</body>
 </html>
