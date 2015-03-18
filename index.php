@@ -11,16 +11,16 @@
 				<nav>
 					<ul>
 						<li>
-							<a href="#">About</a>
-						</li>
-						<li>
-							<a href="#">Portfolio</a>
+							<a href="#">Blog</a>
 						</li>
 						<li>
 							<a href="#">Skills</a>
 						</li>
 						<li>
-							<a href="#">Blog</a>
+							<a href="#">Portfolio</a>
+						</li>
+						<li>
+							<a href="#">About</a>
 						</li>
 					</ul>
 				</nav>
