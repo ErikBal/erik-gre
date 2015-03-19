@@ -180,13 +180,41 @@
 		<footer>
 			<section class="wrap">
 				<div>
+					<h1>About</h1>
+					<p>
+						I specialize in web design, programming and web development. Not only am I an ambitious developer who is always seeking to expand my knowledge of everything on the web, I’m also an entrepreneur that thinks way outside the box. In my world, anything’s possible. And if it’s not, I’ll find a way to make it so.
+					</p>
+					<a href="#">More <strong>ABOUT ME</strong></a>
 				</div>
 				<div>
+					<h1>Menu</h1>
+					<ul>
+						<li>
+							<a href="#">About</a>
+						</li>
+						<li>
+							<a href="#">Portfolio</a>
+						</li>
+						<li>
+							<a href="#">Skills</a>
+						</li>
+						<li>
+							<a href="#">Blog</a>
+						</li>
+					</ul>
+					<h1>SOCIAL</h1>
 				</div>
 				<div>
-				</div>
-				<p>
-				</p>
+					<h1>GET IN TOUCH</h1>
+					<h3>I can't wait to work with you.</h3>
+					<p>
+						Via e-mail: <a href="#">gre@gre.is</a><br />
+						Via mobile: <a href="#">+66 (0)96 697 6140</a><br />
+						Via Skype: <a href="#">Call me, greeinarsson</a><br />
+						Via Linkedin: <a href="#">Click here</a><br />
+						Via Facebook: <a href="#">@greinarsson</a>
+					</p>
+				</div>		
 			</section>
 		</footer>
 	</body>

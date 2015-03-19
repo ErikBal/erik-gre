@@ -320,8 +320,8 @@ main section + section a strong{
 }
 
 
-section + section + section{
-	height: 460px;
+main section + section + section{
+	height: 470px;
 	width: 1423px;
 	margin: 0 1000px 0 -92px;
 	background-color: #f2f2f2;
@@ -404,6 +404,8 @@ main section + section + section div + div article h2{
 
 main section + section + section + section{
 	width: 1423px;
+	background-color: #ffffff;
+	height: 178px;
 }
 
 main section + section + section + section ul{
@@ -429,4 +431,93 @@ main section + section + section + section ul li a img{
 	width: 100%;
 	height: 178px;
 	float: left;
+}
+
+
+
+footer{
+	background-image: radial-gradient(circle,#3b3a53,#1b151f);
+	padding: 10px 0 0 0;
+	height: 400px;
+}
+
+footer section{
+	height: 400px;
+}
+
+footer section div{
+	width: 30%;
+	float: left;
+	padding: 15px 20px 15px 20px;
+}
+
+
+footer section div h1{ 
+	width: 100%;
+	margin: 0;
+	font-size: 28px;
+	color: #ffffff;
+	font-family: 'Lato', sans-serif;
+}
+
+footer section div h3{
+	margin: 0;
+	padding: 0;
+	color: #a3a2b8;
+	font-weight: normal;
+	font-style: italic;
+	font-family: 'Lato', sans-serif;
+	font-size: 18px;
+}
+
+footer section div p{
+	color: #ffffff;
+	font-size: 16px;
+	font-family: 'Lato', sans-serif;
+	font-weight: bold;
+	margin: 20px 0 20px 0;
+}
+
+footer section div ul{
+	list-style: none;
+	padding: 0;
+	margin: 15px 0 10px 0;
+	font-weight: 900;
+}
+
+footer section div ul li a{
+	text-decoration: none;
+	color: #fff;
+	width: auto;
+	height: auto;
+	font-size: 18px;
+	text-align: left;
+	font-style: normal;
+	padding-left: 0;
+	margin: 0;
+	border: none;
+	padding-top: 0;
+}
+
+
+footer section div a{
+		width: 245px;
+		height: auto;
+		font-size: 19px;
+		text-align: center;
+		font-weight: lighter;
+		font-style: italic;
+		padding-left: 0;
+		margin: 50px 0 0 0;
+		border: 2px solid #ffffff;
+		border-radius: 5px;
+		padding: 10px 10px 10px 10px;
+		color: #A3A2B8;
+		text-decoration: none;
+}
+
+footer section div a strong{
+	font-size: 20px;
+	font-style: normal;
+	color: #ffffff;
 }
