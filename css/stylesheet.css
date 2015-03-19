@@ -197,8 +197,11 @@ header section div span{
 	font-weight: 400;
 }
 
+main section{
+	height: 720px;
+}
 
-main h2{
+main section h2{
 	font-size: 29px;
 	font-weight: bold;
 	text-align: center;
@@ -207,7 +210,7 @@ main h2{
 }
 
 
-main figure{
+main section figure{
 	height: 330px;
 	width: 413px;
 	float: left;
@@ -215,51 +218,51 @@ main figure{
 
 }
 
-main figure #img1{
+main section figure #img1{
 	background-image: url('http://www.gre.is/wp-content/uploads/2015/03/logreglan_web_gre1-375x250.jpg');
 }
 
-main figure #img1:hover{
-
+main section figure #img1:hover{
+	
 }
 
-main figure #img2{
+main section figure #img2{
 	background-image: url('http://www.gre.is/wp-content/uploads/2015/03/secretsolstice_website_gre-375x250.jpg');
 }
 
-main figure #img2:hover{
+main section figure #img2:hover{
 	
 }
 
-main figure #img3{
+main section figure #img3{
 	background-image: url('http://www.gre.is/wp-content/uploads/2015/03/palloskar_web_gre-375x250.jpg');
 }
 
-main figure #img3:hover{
+main section figure #img3:hover{
 	
 }
 
-main figure #img4{
+main section figure #img4{
 	background-image: url('http://www.gre.is/wp-content/uploads/2014/11/22hillhotel_web_gre-375x250.jpg');
 }
 
-main figure #img4:hover{
+main section figure #img4:hover{
 	
 }
 
-main figure #img5{
+main section figure #img5{
 	background-image: url('http://www.gre.is/wp-content/uploads/2015/03/netgiro_web_gre1-375x250.jpg');
 }
 
-main figure #img5:hover{
+main section figure #img5:hover{
 	
 }
 
-main figure #img6{
+main section figure #img6{
 	background-image: url('http://www.gre.is/wp-content/uploads/2014/03/vesturport_web_gre-375x250.jpg');
 }
 
-main figure #img6:hover{
+main section figure #img6:hover{
 	
 }
 
@@ -280,3 +283,150 @@ main figure #img6:hover{
 	opacity: 0.4;
 }
 
+
+
+main section + section{
+	width: 33.3%;
+	height: 50px;
+	margin: 50px auto 0 auto;
+	text-align: center;
+}
+
+
+main section + section a{
+	width: 245px;
+	height: auto;
+	font-size: 20px;
+	font-weight: 400;
+	text-align: center;
+	font-style: italic;
+	padding-left: 0;
+	margin: 0 0 0 0;
+	border: 2px solid #000000;
+	border-radius: 5px;
+	color: #A3A2B8;
+	text-decoration: none;
+	padding: 15px 10px 10px 10px;
+
+}
+
+
+main section + section a strong{
+	font-size: 26px;
+	font-style: normal;
+	color: #000000;
+	font-weight: bold;
+	font-family: Lato, sans-serif;
+}
+
+
+section + section + section{
+	height: 460px;
+	width: 1423px;
+	margin: 0 1000px 0 -92px;
+	background-color: #f2f2f2;
+}
+
+
+main section + section + section h2{
+	padding-top: 20px;
+}
+
+main section + section + section div{
+	width: 1200px;
+	margin: 20px auto 0 auto;
+	height: 300px;
+}
+
+main section + section + section div div img{
+	float: left;
+	height: 220px;
+	width: 290px;
+}
+
+main section + section + section div div{
+	width: 49%;
+	float: left;
+}
+
+
+main section + section + section div div article{
+	width: 45%;
+	height: 200px;
+	float: left;
+	padding: 10px 0 0 0;
+	margin-right: 30px;
+}
+
+main section + section + section div div article time{
+	text-align: left;
+	margin: 0 160px 0 0;
+	font-size: 13.5px;
+	color: #a3a2b8;
+	font-weight: bolder;
+}
+
+
+main section + section + section div div article h2{
+	margin: 0 0 0 10px;
+	padding: 0 0 0 0;
+	font-size: 22px;
+	font-weight: bold;
+	color: #3b3a53;
+	height: 30px;
+	width: 100%;
+	text-align: left;
+	font-family: 'Lato', sans-serif;
+
+}
+
+main section + section + section div div + div article p{
+	margin: 10px 0 0 10px;
+	text-align: left;
+	width: 95%;
+	font-family: 'Lato', sans-serif;
+	font-size: 14px;
+	font-weight: 200;
+}
+
+
+main section + section + section div div + div {
+	float: right;
+}
+
+main section + section + section div div + div article{
+}
+
+
+main section + section + section div + div article h2{
+	height: 50px;
+}
+
+main section + section + section + section{
+	width: 1423px;
+}
+
+main section + section + section + section ul{
+	width: 1423px;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+main section + section + section + section ul li{
+	width: 12.5%;
+	height: 178px;
+	float: left;
+}
+
+main section + section + section + section ul li a{
+	border: none;
+	padding: 0;
+	margin: 0;
+}
+
+main section + section + section + section ul li a img{
+	width: 100%;
+	height: 178px;
+	float: left;
+}
