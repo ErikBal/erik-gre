@@ -2,6 +2,7 @@
 <html>
 	<head>
 		<link href="css/stylesheet.css" rel="stylesheet" type="text/css">
+		<link href="bower_components/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 	</head>
 	<body>
 		<header>
@@ -36,11 +37,11 @@
 						<span>or</span>
 						<a href="#">Like it then <strong>HIRE ME</strong></a>
 					</div>
-					<div>
-						<img src="">
-						<img src="">
-						<img src="">
-						<img src="">
+					<div class="icon-box">
+						<span href="#" class="fa fa-twitter-square"> </span>
+						<span href="#" class="fa fa-facebook-square"> </span>
+						<span href="#" class="fa fa-instagram"> </span>
+						<span href="#" class="fa fa-linkedin-square"></span>
 					</div>
 				</section>
 			</section>					
@@ -51,55 +52,55 @@
 				<figure>
 					<span id="img1" class="img-animation"></span>
 					<figcaption>
-						LÖGREGLAN
+						<a href="#">LÖGREGLAN</a>
 					</figcaption>
 					<figcaption>
-						www.logregla.is
+						<a href="#">www.logregla.is</a>
 					</figcaption>
 				</figure>
 				<figure>
 					<span id="img2" class="img-animation"></span>
 					<figcaption>
-						SECRET SOLSTICE FESTIVAL
+						<a href="#">SECRET SOLSTICE FESTIVAL</a>
 					</figcaption>
 					<figcaption>
-						www.secretsolstice.is
+						<a href="#">www.secretsolstice.is</a>
 					</figcaption>
 				</figure>
 				<figure>
 					<span id="img3" class="img-animation"></span>
 					<figcaption>
-						PÁLL ÓSKAR
+						<a href="#">PÁLL ÓSKAR</a>
 					</figcaption>
 					<figcaption>
-						www.palloskar.is
+						<a href="#">www.palloskar.is</a>
 					</figcaption>
 				</figure>
 				<figure>
 					<span id="img4" class="img-animation"></span>
 					<figcaption>
-						22 HILL HOTEL
+						<a href="#">22 HILL HOTEL</a>
 					</figcaption>
 					<figcaption>
-						www.22hillhotel.is
+						<a href="#">www.22hillhotel.is</a>
 					</figcaption>
 				</figure>
 				<figure>
 					<span id="img5" class="img-animation"></span>
 					<figcaption>
-						NETGÍRÓ
+						<a href="#">NETGÍRÓ</a>
 					</figcaption>
 					<figcaption>
-						www.netgiro.is
+						<a href="#">www.netgiro.is</a>
 					</figcaption>
 				</figure>
 				<figure>
 					<span id="img6" class="img-animation"></span>
 					<figcaption>
-						VESTURPORT
+						<a href="#">VESTURPORT</a>
 					</figcaption>
 					<figcaption>
-						www.vesturport.com
+						<a href="#">www.vesturport.com</a>
 					</figcaption>
 				</figure>
 			</section>
@@ -203,6 +204,12 @@
 						</li>
 					</ul>
 					<h1>SOCIAL</h1>
+					<div class="icon-box">
+						<span href="#" class="fa fa-twitter-square"> </span>
+						<span href="#" class="fa fa-facebook-square"> </span>
+						<span href="#" class="fa fa-instagram"> </span>
+						<span href="#" class="fa fa-linkedin-square"></span>
+					</div>
 				</div>
 				<div>
 					<h1>GET IN TOUCH</h1>
